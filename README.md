@@ -1,5 +1,3 @@
 Link 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-https://hrittikhere.github.io/Omnifood/
-
-
+https://hrittikhere.github.io/omnifood/
